@@ -1,14 +1,15 @@
 <div align="center">
 
-# Hi, I'm Bipro Prokas 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bipro+Prokas+%F0%9F%91%8B" alt="Hi, I'm Bipro Prokas" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI-Driven+Full+Stack+Web+Engineer;CSE+Student+%7C+Web+Developer+%7C+Learner;Building+Modern+Web+Applications" alt="Typing SVG" />
-</a>
+### AI-Driven Full Stack Web Engineer
 
-📍 **Dhaka, Bangladesh**
+**CSE Student • Web Developer • Lifelong Learner**
+
+📍 Dhaka, Bangladesh
 
 </div>
+
 
 ---
 
