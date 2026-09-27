@@ -1,10 +1,18 @@
+<div align="center">
+
 # Hi, I'm Bipro Prokas 👋
 
-### AI-Driven Full Stack Web Engineer
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI-Driven+Full+Stack+Web+Engineer;CSE+Student+%7C+Web+Developer+%7C+Learner;Building+Modern+Web+Applications" alt="Typing SVG" />
+</a>
 
-**CSE Student • Web Developer • Lifelong Learner**
+📍 **Dhaka, Bangladesh**
 
-📍 Dhaka, Bangladesh
+</div>
+
+---
+
+## 👨‍💻 About Me
 
 I’m currently building a strong foundation in modern web technologies—mastering frontend craftsmanship with **React and Next.js**, while sharpening my backend and API fundamentals.
 
@@ -27,40 +35,50 @@ Currently, I’m building and learning through full-stack applications using **N
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+<p align="left">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" alt="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" alt="TypeScript"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" alt="HTML5"/>
+  <img src="https://cdn.simpleicons.org/css/1572B6" width="40" alt="CSS3"/>
+</p>
 
-### Frontend
+### ⚛️ Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyUI-5A0EF8?style=flat-square\&logo=daisyui\&logoColor=white)
+<p align="left">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" alt="React"/>
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40" alt="Next.js"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.simpleicons.org/daisyui/5A0EF8" width="40" alt="DaisyUI"/>
+</p>
 
-### Backend & Database
+### ⚙️ Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square\&logo=mongoose\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+<p align="left">
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" alt="Node.js"/>
+  <img src="https://cdn.simpleicons.org/express/000000" width="40" alt="Express.js"/>
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" alt="MongoDB"/>
+  <img src="https://cdn.simpleicons.org/mongoose/880000" width="40" alt="Mongoose"/>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" alt="PostgreSQL"/>
+</p>
 
-### Tools
+### 🔧 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+<p align="left">
+  <img src="https://cdn.simpleicons.org/git/F05032" width="40" alt="Git"/>
+  <img src="https://cdn.simpleicons.org/github/181717" width="40" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40" alt="VS Code"/>
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" alt="Figma"/>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" alt="Postman"/>
+</p>
 
-### AI & Developer Tools
+### 🤖 AI & Developer Tools
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square\&logo=openai\&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square\&logo=githubcopilot\&logoColor=white)
+<p align="left">
+  <img src="https://cdn.simpleicons.org/openai/412991" width="40" alt="OpenAI"/>
+  <img src="https://cdn.simpleicons.org/githubcopilot/000000" width="40" alt="GitHub Copilot"/>
+</p>
 
 **AI Interests:** AI APIs • Prompt Engineering • AI-assisted Development
 
@@ -68,27 +86,41 @@ Currently, I’m building and learning through full-stack applications using **N
 
 ## 📌 Featured Projects
 
-<!-- Add your best projects here as you build them -->
+<!-- Add your projects here -->
 
 ---
 
 ## 📚 Currently Learning
 
+<div align="center">
 
-Frontend Development
-       ↓
-React → Next.js → TypeScript
-       ↓
-API Integration
-       ↓
-Backend Development
-       ↓
-Databases
-       ↓
-Full Stack Development
-       ↓
-AI-Powered Applications
+**Frontend Development**
 
+↓
+
+**React → Next.js → TypeScript**
+
+↓
+
+**API Integration**
+
+↓
+
+**Backend Development**
+
+↓
+
+**Databases**
+
+↓
+
+**Full Stack Development**
+
+↓
+
+**AI-Powered Applications**
+
+</div>
 
 I’m continuously improving my problem-solving skills and learning how different parts of a modern web application work together—from the user interface to APIs, databases, and AI-powered features.
 
@@ -102,26 +134,32 @@ I’m continuously improving my problem-solving skills and learning how differen
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/biprokas">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://cdn.simpleicons.org/github/181717" width="36" alt="GitHub"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/bipro-prokash-569654418/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/bprokas">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://cdn.simpleicons.org/x/000000" width="36" alt="X"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/biproprokas">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="36" alt="Facebook"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:biproo.kas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" alt="Email"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <i>Building. Learning. Improving. One commit at a time.</i>
-</p>
+<div align="center">
+
+<i>Building. Learning. Improving. One commit at a time.</i>
+
+</div>
