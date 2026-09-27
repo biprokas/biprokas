@@ -105,14 +105,17 @@ I’m a Computer Science student passionate about crafting seamless user experie
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=biprokas&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Bipro's GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biprokas&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="170" />
+<img src="./profile/stats.svg" alt="Bipro's GitHub Stats" height="170" />
+
+<img src="./profile/top-langs.svg" alt="Top Languages" height="170" />
 
 </div>
+
 
 ---
 
