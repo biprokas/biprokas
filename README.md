@@ -96,29 +96,17 @@ Currently, I’m building and learning through full-stack applications using **N
 <div align="center">
 
 **Frontend Development**
-
 ↓
-
 **React → Next.js → TypeScript**
-
 ↓
-
 **API Integration**
-
 ↓
-
 **Backend Development**
-
 ↓
-
 **Databases**
-
 ↓
-
 **Full Stack Development**
-
 ↓
-
 **AI-Powered Applications**
 
 </div>
