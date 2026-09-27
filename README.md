@@ -1,154 +1,143 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bipro+Prokas+%F0%9F%91%8B" alt="Hi, I'm Bipro Prokas" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bipro+Prokas+%F0%9F%91%8B;AI-Driven+Full+Stack+Engineer;Building+Fast+%26+Scalable+Web+Apps" alt="Bipro Prokas Header" />
 
-### AI-Driven Full Stack Web Engineer
+### 🚀 AI-Driven Full Stack Web Engineer
 
-**CSE Student • Web Developer • Lifelong Learner**
+**CSE Student • Full Stack Developer • Lifelong Learner**
 
 📍 Dhaka, Bangladesh
 
-</div>
+<br />
 
+[![GitHub Followers](https://img.shields.io/github/followers/biprokas?label=Followers&style=for-the-badge&color=181717&logo=github)](https://github.com/biprokas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bipro-prokash-569654418/)
+[![X (Twitter)](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x)](https://x.com/bprokas)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:biproo.kas@gmail.com)
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m currently building a strong foundation in modern web technologies—mastering frontend craftsmanship with **React and Next.js**, while sharpening my backend and API fundamentals.
+I’m a Computer Science student passionate about crafting seamless user experiences and modern web systems. My core focus lies in **frontend craftsmanship using React and Next.js**, paired with scalable backend API design.
 
-I enjoy building **dynamic, interactive web applications** where thoughtful design meets complex logic. My goal is to become a full-stack web developer who builds **fast, scalable, and user-centric applications**.
+* 💡 **Building:** Scalable full-stack apps using **Next.js, Node.js, and TypeScript**.
+* 🎨 **UI/UX:** Crafting responsive interfaces with **Tailwind CSS and modern component architecture**.
+* 🤖 **AI Integration:** Exploring **LLM APIs, prompt engineering**, and embedding smart tools into web workflows.
+* 📈 **Goal:** To engineer high-performance, user-focused web products at scale.
 
-Currently, I’m building and learning through full-stack applications using **Next.js, React, and Tailwind CSS**.
-
----
-
-## 🚀 What I'm Working On
-
-* 🌱 Strengthening my **JavaScript & TypeScript** fundamentals
-* ⚛️ Building modern interfaces with **React & Next.js**
-* 🎨 Improving my frontend skills with **Tailwind CSS**
-* 🔗 Learning backend development and **API integration**
-* 🗄️ Exploring databases and full-stack application architecture
-* 🤖 Exploring how **AI can improve modern web development**
+> **Motto:** *Building → Breaking → Debugging → Learning → Improving*
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skillset
 
-### 💻 Languages
+<div align="left">
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" alt="JavaScript"/>
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" alt="TypeScript"/>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" alt="HTML5"/>
-  <img src="https://cdn.simpleicons.org/css/1572B6" width="40" alt="CSS3"/>
-</p>
+### 💻 Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚛️ Frontend
+### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005596?style=for-the-badge&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" alt="React"/>
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40" alt="Next.js"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" alt="Tailwind CSS"/>
-  <img src="https://cdn.simpleicons.org/daisyui/5A0EF8" width="40" alt="DaisyUI"/>
-</p>
+### 🎨 Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### ⚙️ Backend & Database
+### 🔧 Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" alt="Node.js"/>
-  <img src="https://cdn.simpleicons.org/express/000000" width="40" alt="Express.js"/>
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" alt="MongoDB"/>
-  <img src="https://cdn.simpleicons.org/mongoose/880000" width="40" alt="Mongoose"/>
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" alt="PostgreSQL"/>
-</p>
+### 🤖 AI & Innovation
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
-### 🔧 Tools
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/git/F05032" width="40" alt="Git"/>
-  <img src="https://cdn.simpleicons.org/github/181717" width="40" alt="GitHub"/>
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40" alt="VS Code"/>
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" alt="Figma"/>
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" alt="Postman"/>
-</p>
-
-### 🤖 AI & Developer Tools
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/openai/412991" width="40" alt="OpenAI"/>
-  <img src="https://cdn.simpleicons.org/githubcopilot/000000" width="40" alt="GitHub Copilot"/>
-</p>
-
-**AI Interests:** AI APIs • Prompt Engineering • AI-assisted Development
+</div>
 
 ---
 
 ## 📌 Featured Projects
 
-<!-- Add your projects here -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 Full Stack Web App</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <p>A feature-rich web platform focused on speed, responsive design, and robust API endpoints.</p>
+      <p align="center">
+        <a href="https://github.com/biprokas"><b>📄 Code</b></a> • 
+        <a href="https://github.com/biprokas"><b>🌐 Live Demo</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 AI Integration Tool</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+      <p>An interactive tool demonstrating AI API connectivity and prompt-driven user workflows.</p>
+      <p align="center">
+        <a href="https://github.com/biprokas"><b>📄 Code</b></a> • 
+        <a href="https://github.com/biprokas"><b>🌐 Live Demo</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📚 Currently Learning
+## 📊 GitHub Analytics
 
 <div align="center">
 
-**Frontend Development**
-↓
-**React → Next.js → TypeScript**
-↓
-**API Integration**
-↓
-**Backend Development**
-↓
-**Databases**
-↓
-**Full Stack Development**
-↓
-**AI-Powered Applications**
+<img src="https://github-readme-stats.vercel.app/api?username=biprokas&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Bipro's GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biprokas&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="170" />
 
 </div>
 
-I’m continuously improving my problem-solving skills and learning how different parts of a modern web application work together—from the user interface to APIs, databases, and AI-powered features.
-
 ---
 
-## 🎯 My Goal
-
-> **Become an AI-Driven Full Stack Web Engineer who builds fast, scalable, and user-focused web applications.**
-
----
-
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://github.com/biprokas">
-    <img src="https://cdn.simpleicons.org/github/181717" width="36" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/bipro-prokash-569654418/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="36" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/bprokas">
-    <img src="https://cdn.simpleicons.org/x/000000" width="36" alt="X"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/biproprokas">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="36" alt="Facebook"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:biproo.kas@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="36" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
----
-
 <div align="center">
 
-<i>Building. Learning. Improving. One commit at a time.</i>
+*Building. Learning. Improving. One commit at a time.*
 
 </div>
